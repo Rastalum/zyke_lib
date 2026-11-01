@@ -11,6 +11,7 @@ local systems = {
     "qs-vehiclekeys",
     "wasabi_carlock",
     "Renewed-Vehiclekeys",
+    "MrNewbVehicleKeys",
 }
 
 -- Resolve provide aliases to a supported real resource so the alias cannot select the wrong adapter contract
